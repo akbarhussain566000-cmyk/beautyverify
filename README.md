@@ -3,7 +3,7 @@
 An enterprise-grade B2B AI Authenticity Platform engineered using Computer Vision principles to secure retail and cosmetic supply chains. This solution eliminates counterfeit products and safeguards human physical health from hazardous unauthorized chemical formulas.
 
 ## 🚀 Live Demo & Documentation
-- **Live Interactive Prototype:** https://beauty-trust-ai.lovable.app
+- **Live Interactive Prototype:** https://pure-beauty-guard.base44.app
 - **Official Deployment Target:** Submitted successfully to the global 'Hack for Humanity | Summer 2026' Hackathon.
 
 ## 🛠️ Technical Architecture & Features
